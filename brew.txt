@@ -1,0 +1,2 @@
+brew list: Show a list of all application installed by brew
+brew list --versions qt: Show the version of an application that comes after --versions, for Ex. qt
