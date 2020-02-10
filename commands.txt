@@ -1,0 +1,2 @@
+sw_vers -productVersion: Just show macOs version
+system_profiler SPSoftwareDataType: Show System Software Overview include macOs version, Kernel version, boot time, etc
