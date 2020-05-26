@@ -1,0 +1,19 @@
+Command (or Cmd) ⌘          Shift ⇧         Option (or Alt) ⌥   
+Control (or Ctrl) ⌃         Caps Lock ⇪         Fn   
+   
+⌘ Space: Spotlight Search
+⌃ ⌘ Space: Emojis
+⌥ ⌘ Spacebar: Finder
+⌘ F3: Show Mac Desktop (In a desktop that Finder is running)
+^D: Delete the caracter at the right of cursor
+^K: Cut the right part of the Cursor
+^A: Go to the START of the line
+^E: Go to the END of the line
+⌘C, ⌘X, ⌘V: Copy, Cut, Paste (Text)
+⌘C, ⌘⌥ V, ⌘V: Copy, Cut, Paste (File)
+Fn Left/Right key: Go to Start/End of line
+⌥ Left/Right key: Go to the next word
+⌘ UP/Down key: Go to the Start/End of a page
+⌘ / (⇧ ⌘ /): Backslash on the Mac French compact keyboard
+⇧ ⌥ L: Pipe key (|)
+⌘K: Clear screen
