@@ -1,2 +1,9 @@
 sw_vers -productVersion: Just show macOs version
 system_profiler SPSoftwareDataType: Show System Software Overview include macOs version, Kernel version, boot time, etc
+defaults write com.apple.finder ShowStatusBar -bool true: turn on the Status Bar
+defaults write com.apple.finder ShowPathbar -bool true: turn on the Path Bar
+chsh -s /bin/bash: Set The Default Shell to Bash
+chsh -s /bin/zsh: Set The Default Shell to zsh
+defaults write com.apple.screencapture location /Users/[your_username]/Screenshots: Send Screenshots to a Location Other Than Desktop
+killall SystemUIServer: to restart the SystemUI processes
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)": Install Homebrew
