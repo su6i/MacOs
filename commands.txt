@@ -8,3 +8,4 @@ defaults write com.apple.screencapture location /Users/[your_username]/Screensho
 killall SystemUIServer: to restart the SystemUI processes
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)": Install Homebrew
 lsof -i:portnumber : Ex lsof -i:8888 looking for application who use specific port number    
+kill -9 PID : Kill a process   
